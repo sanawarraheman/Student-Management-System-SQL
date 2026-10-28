@@ -1,0 +1,7 @@
+# MySQL Workbench temporary files
+*.mwb.bak
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
